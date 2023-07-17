@@ -18,6 +18,9 @@ Its also will ask you To use Proxies or you can just run it with own risk (It's 
 
 
 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Disclaimer
 
 This script is provided for educational purposes only. The author of this script is not responsible for any misuse of the information provided. All information in this script is meant to help the user understand how Discord tokens and proxies work in a programming context.
