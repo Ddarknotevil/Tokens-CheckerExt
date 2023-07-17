@@ -2,6 +2,7 @@
 It's a simple Script that allow you to Extract Tokens from Logs Folders as output then you can Scan output using the TokenChecker
 
 * Note: The Script will auto Install the Requirements *
+* The Script discord.py should be in the same Folders Dir to Extract Tokens*
 
 More details 
 ------------
